@@ -1,0 +1,13 @@
+name: Catch-up
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - datasets
+  - humanize
+  - nltk
